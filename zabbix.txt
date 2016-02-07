@@ -1,0 +1,3 @@
+Zabbix supports SNMP agents, present in all network devices like routers and switches. So Zabbix can help you with monitoring and capacity planning on your network providing key figures such as network utilization, CPU, memory and port status.
+
+In addition, Zabbix can monitor any other device with an SNMP agent like network appliances, storages, cooling and power systems.
